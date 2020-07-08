@@ -14,7 +14,7 @@
     "cheerio": "^0.20.0",
     "js-beautify": "~1.5.10",
     "multiline": "^0.3.4",
-    "handlebars": "^2.0.0"
+    "handlebars": "^4.7.6"
   },
   "peerDependencies": {
     "grunt": ">=0.4.0"
